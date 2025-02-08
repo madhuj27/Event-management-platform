@@ -18,7 +18,7 @@ import PaymentSummary from './pages/PaymentSummary'
 import TicketPage from './pages/TicketPage'
 import CreatEvent from './pages/CreateEvent'
 
-axios.defaults.baseURL = 'https://event-management-platform-2-hg0e.onrender.com';
+axios.defaults.baseURL = 'https://event-management-platform-6l2f.vercel.app/';
 axios.defaults.withCredentials=true;
 
 function App() {
